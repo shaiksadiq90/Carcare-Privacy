@@ -1,6 +1,6 @@
 # CarCare Privacy Policy
 
-**Last updated: 4 August 2026**
+**Last updated: 5 August 2026**
 
 CarCare ("the app") is a vehicle maintenance tracker. This policy explains what
 the app collects, why, and what control you have. It is written to be read, not
@@ -34,14 +34,18 @@ stays in the app's storage on your device.
   optionally a display name. If you sign in with Apple or Google, we receive
   your email and name from that provider. If you use Apple's "Hide My Email",
   we only ever see the relay address Apple generates.
-- **Vehicle records** — vehicle names, odometer readings, and the photos you
-  choose to add.
+- **Vehicle records** — vehicle names, odometer readings, and any vehicle or
+  replaced-part photos you choose to add (these do sync, so they are stored in
+  the cloud).
 - **Maintenance and fuel records** — dates, mileage, service types, parts,
   costs, locations you type in, fuel volumes and prices, and any photos you
   attach.
-- **Documents and tickets** — photographs of insurance cards, registrations,
-  titles, and traffic or parking tickets that you choose to upload, plus the
-  expiry dates, fine amounts, and payment dates you enter.
+- **Documents and tickets** — the type, name, expiry dates, fine amounts, and
+  payment dates you enter. **Photographs of identity and ownership documents
+  (driver's licences, insurance cards, registrations, titles) and of tickets are
+  never uploaded.** They remain in the app's private storage on the device that
+  took them. We never receive, transmit, or store these images, and cannot
+  access them.
 - **Preferences** — units, currency, and appearance settings.
 
 **What the app does not collect:** location data, contacts, advertising
@@ -61,6 +65,17 @@ models, and we do not sell or rent it to anyone.
 The app asks for camera and photo library permission only when you tap a button
 to add a photo. Photos are used exclusively as attachments to your own records.
 You can decline these permissions and continue using every other feature.
+
+## Document photos stay on your device
+
+CarCare deliberately does not upload photographs of identity or ownership
+documents. Only their details — such as document type and expiry date — sync to
+your account, so renewal reminders work across your devices. If you sign in on a
+second device, those entries appear without their images, and the app tells you
+the photo remains on the original device.
+
+This means: if you delete the app or lose the device without another copy of the
+photo, that image is gone. Keep your original documents.
 
 ## Where your data is stored
 
