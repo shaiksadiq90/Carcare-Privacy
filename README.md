@@ -109,7 +109,7 @@ Depending on where you live, you may also have rights under laws such as PIPEDA
 export, delete, or restrict processing of your personal data, and to lodge a
 complaint with a data protection authority. Because the app already gives you
 direct access and deletion, most requests can be completed by you instantly. For
-anything else, email **md.sadiqk282@gmail.com** and we will respond within
+anything else, email **carcarepolicy@gmail.com** and we will respond within
 30 days.
 
 ## Children
