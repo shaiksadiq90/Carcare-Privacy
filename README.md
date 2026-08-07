@@ -11,7 +11,7 @@ to be skimmed past.
 ## Who we are
 
 CarCare is operated by Shaik Sadiq. Questions, requests, or complaints:
-**md.sadiqk282@gmail.com**.
+**carcarepolicy@gmail.com**.
 
 ## The short version
 
@@ -133,6 +133,6 @@ means you accept the revised policy.
 ## Contact
 
 Shaik Sadiq
-Email: **md.sadiqk282@gmail.com**
+Email: **carcarepolicy@gmail.com**
 
 This policy is governed by the laws of the Province of Ontario, Canada.
