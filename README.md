@@ -31,9 +31,8 @@ stays in the app's storage on your device.
 **If you create an account, we store:**
 
 - **Account details** — your email address, an authentication identifier, and
-  optionally a display name. If you sign in with Apple or Google, we receive
-  your email and name from that provider. If you use Apple's "Hide My Email",
-  we only ever see the relay address Apple generates.
+  optionally a display name. Sign-in is by email and password only; we do not
+  use any third-party sign-in provider.
 - **Vehicle records** — vehicle names, odometer readings, and any vehicle or
   replaced-part photos you choose to add (these do sync, so they are stored in
   the cloud).
